@@ -16,7 +16,6 @@ if (argc >= 1)
   }
 }
 
-Info()
 
 #Include <FindText>
 
